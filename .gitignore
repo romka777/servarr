@@ -10,6 +10,7 @@
 /qbittorent/qBittorrent/logs
 /qbittorent/qBittorrent/lockfile
 /qbittorent/qBittorrent/BT_backup
+/qbittorent/qBittorrent/qBittorrent-data.conf
 /qbittorent/.ash_history
 /qbittorent/.bash_history
 /radarr/MediaCover/*
